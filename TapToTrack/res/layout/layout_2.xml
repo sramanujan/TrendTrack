@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" >
+    <TextView android:id="@+id/layout_2_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.2" android:text="@string/layout2_title" android:gravity="center"/>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+        <Button android:id="@+id/b100" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+        <Button android:id="@+id/b103" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+		<Button android:id="@+id/b110" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+        <Button android:id="@+id/b113" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>        
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+        <Button android:id="@+id/b120" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+        <Button android:id="@+id/b123" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal">
+        <Button android:id="@+id/b130" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+        <Button android:id="@+id/b133" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:onClick="onClick"/>
+    </LinearLayout>    
+</LinearLayout>
