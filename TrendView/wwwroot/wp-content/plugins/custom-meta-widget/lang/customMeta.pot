@@ -1,0 +1,115 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-meta-widget\n"
+"POT-Creation-Date: 2012-04-19 22:57:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: customMeta.php:20
+msgid ""
+"Clone of the standard Meta widget with options to show or hide log in/out, "
+"admin, feed, WordPress/custom links."
+msgstr ""
+
+#: customMeta.php:30
+msgid "Meta"
+msgstr ""
+
+#: customMeta.php:45
+msgid "Title"
+msgstr ""
+
+#: customMeta.php:51
+msgid "Show \"Register/Admin\" link?"
+msgstr ""
+
+#: customMeta.php:57
+msgid "Show \"Log in/out\" link?"
+msgstr ""
+
+#: customMeta.php:63
+msgid "Show \"Entries RSS\" link?"
+msgstr ""
+
+#: customMeta.php:69
+msgid "Show \"Comments RSS\" link?"
+msgstr ""
+
+#: customMeta.php:75
+msgid "Show \"Wordpress\" link?"
+msgstr ""
+
+#: customMeta.php:81
+msgid "Show Custom link?"
+msgstr ""
+
+#: customMeta.php:85
+msgid "URL"
+msgstr ""
+
+#: customMeta.php:90
+msgid "Text"
+msgstr ""
+
+#: customMeta.php:97
+msgid "Show Plugin link?"
+msgstr ""
+
+#: customMeta.php:100
+msgid "An awesome way to support this free plugin!"
+msgstr ""
+
+#: customMeta.php:107
+msgid "You have a custom link with no URL or text!"
+msgstr ""
+
+#: customMeta.php:110
+msgid "You have a custom link with no text!"
+msgstr ""
+
+#: customMeta.php:114
+msgid "You have a custom link with no URL!"
+msgstr ""
+
+#: customMeta.php:143
+msgid "Plugin: Custom Meta Widget"
+msgstr ""
+
+#: customMeta.php:144
+msgid "Plugin URL"
+msgstr ""
+
+#: customMeta.php:169
+msgid "%1$sSyndicate this site using RSS 2.0%2$sEntries %3$sRSS%4$s"
+msgstr ""
+
+#: customMeta.php:173
+msgid "%1$sSyndicate this site using RSS 2.0%2$sComments %3$sRSS%4$s"
+msgstr ""
+
+#: customMeta.php:176
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: customMeta.php:184
+msgid ""
+"Error: \"Show Custom Link\" is checked, but either the text or URL for that "
+"link are not specified. The link was not displayed because it would be "
+"broken. Check the settings for your Custom Meta widget."
+msgstr ""
+
+#: customMeta.php:190
+msgid "WordPress Plugin Homepage"
+msgstr ""
+
+#: customMeta.php:190
+msgid "Custom Meta"
+msgstr ""
